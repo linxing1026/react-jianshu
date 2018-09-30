@@ -1,0 +1,21 @@
+{
+    "success":true,
+    "data": {
+        "articleList":[{
+            "id":3,
+            "title":"一篇文章同时被4个专题收录 看到点击率我想哭",
+            "desc":"怎么才能增加文章的点击率？ 来简书有半个月了，挑战了一下日更 ,每天发表完文章之后 ,都忍不住的去看阅读量 。 每篇都投专题， 但一开始的几天基...",
+            "imgUrl":"https://upload-images.jianshu.io/upload_images/13513084-de4d4192eb4b445e.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+          },{
+            "id":4,
+            "title":"干货！4个资源满满的网站，个个都是精品！",
+            "desc":"我是个不折不扣的90后，月薪6000，住着两室一厅大出租房，工作不累很少加班，家离得也不远，坐动车一小时就到了。 按理说我工资还凑合，工作可以说...",
+            "imgUrl":"https://upload-images.jianshu.io/upload_images/11438883-ed18bd07a20d2dc0?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+        },{
+            "id":5,
+            "title":"干货！4个资源满满的网站，个个都是精品！",
+            "desc":"我是个不折不扣的90后，月薪6000，住着两室一厅大出租房，工作不累很少加班，家离得也不远，坐动车一小时就到了。 按理说我工资还凑合，工作可以说...",
+            "imgUrl":"https://upload-images.jianshu.io/upload_images/11438883-ed18bd07a20d2dc0?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+        }]
+    }
+}
